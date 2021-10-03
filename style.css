@@ -1,0 +1,14 @@
+#camera{
+    width: 400px;
+    height: 300px;
+}
+body{
+    background-color: rgb(255, 170, 241);
+}
+#logo{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox{
+    width: 300px;
+}
